@@ -1,3 +1,6 @@
 [submodule "workflow-simplest"]
 	path = workflow-simplest
 	url = https://github.com/Developer-Autodesk/workflow-simplest-autocad.io.git
+[submodule "workflow-input-output-variations"]
+	path = workflow-input-output-variations
+	url = https://github.com/Developer-Autodesk/workflow-input-output-variations-autocad.io.git
