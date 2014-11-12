@@ -7,3 +7,6 @@
 [submodule "library-sample-data"]
 	path = library-sample-data
 	url = https://github.com/Developer-Autodesk/library-sample-autocad.io.git
+[submodule "workflow-custom-activity-with-apppackage-autocad.io"]
+	path = workflow-custom-activity-with-apppackage-autocad.io
+	url = https://github.com/Developer-Autodesk/workflow-custom-activity-with-apppackage-autocad.io
