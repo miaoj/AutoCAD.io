@@ -10,3 +10,15 @@
 [submodule "workflow-custom-activity-with-apppackage-autocad.io"]
 	path = workflow-custom-activity-with-apppackage-autocad.io
 	url = https://github.com/Developer-Autodesk/workflow-custom-activity-with-apppackage-autocad.io
+[submodule "library-dotnet-autocad.io"]
+	path = library-dotnet-autocad.io
+	url = https://github.com/Developer-Autodesk/library-dotnet-autocad.io
+[submodule "workflow-winform-autocad.io"]
+	path = workflow-winform-autocad.io
+	url = https://github.com/Developer-Autodesk/workflow-winform-autocad.io
+[submodule "workflow-windowsservice-autocad.io"]
+	path = workflow-windowsservice-autocad.io
+	url = https://github.com/Developer-Autodesk/workflow-windowsservice-autocad.io
+[submodule "workflow-aspdotnet-autocad.io"]
+	path = workflow-aspdotnet-autocad.io
+	url = https://github.com/Developer-Autodesk/workflow-aspdotnet-autocad.io
