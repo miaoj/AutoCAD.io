@@ -22,3 +22,6 @@
 [submodule "workflow-aspdotnet-autocad.io"]
 	path = workflow-aspdotnet-autocad.io
 	url = https://github.com/Developer-Autodesk/workflow-aspdotnet-autocad.io
+[submodule "workflow-simplest-java-autocad.io"]
+	path = workflow-simplest-java-autocad.io
+	url = ../workflow-simplest-java-autocad.io
