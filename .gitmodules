@@ -25,3 +25,6 @@
 [submodule "workflow-simplest-java-autocad.io"]
 	path = workflow-simplest-java-autocad.io
 	url = https://github.com/Developer-Autodesk/workflow-simplest-java-autocad.io.git
+[submodule "acadio-py"]
+	path = acadio-py
+	url = https://github.com/Developer-Autodesk/acadio-py
