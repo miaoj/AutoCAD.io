@@ -19,3 +19,21 @@
 [submodule "autocad.io-simplest-CSharp"]
 	path = autocad.io-simplest-CSharp
 	url = https://github.com/Developer-Autodesk/autocad.io-simplest-CSharp
+[submodule "autocad.io-input-output-variations"]
+	path = autocad.io-input-output-variations
+	url = https://github.com/Developer-Autodesk/autocad.io-input-output-variations
+[submodule "autocad.io-custom-activity-apppackage-CSharp"]
+	path = autocad.io-custom-activity-apppackage-CSharp
+	url = https://github.com/Developer-Autodesk/autocad.io-custom-activity-apppackage-CSharp
+[submodule "autocad.io-simplest-java"]
+	path = autocad.io-simplest-java
+	url = https://github.com/Developer-Autodesk/autocad.io-simplest-java
+[submodule "autocad.io-simplest-java-using-odatalib"]
+	path = autocad.io-simplest-java-using-odatalib
+	url = https://github.com/Developer-Autodesk/autocad.io-simplest-java-using-odatalib
+[submodule "autocad.io-custom-activity-apppackage-java"]
+	path = autocad.io-custom-activity-apppackage-java
+	url = https://github.com/Developer-Autodesk/autocad.io-custom-activity-apppackage-java
+[submodule "autocad.io-AppPackage-dll-cpp"]
+	path = autocad.io-AppPackage-dll-cpp
+	url = https://github.com/Developer-Autodesk/autocad.io-AppPackage-dll-cpp
